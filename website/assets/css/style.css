@@ -616,7 +616,7 @@ p {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #aa0000;
   line-height: 44px;
 }
 
@@ -634,7 +634,7 @@ p {
 }
 
 .services-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #b8a07e;
+  background-color: #c70000;
 }
 
 /*--------------------------------------------------------------
